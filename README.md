@@ -1,2 +1,2 @@
 # Vue.js
-simple vue.js code 
+Hello World example for learning Vue.js 
